@@ -1,2 +1,2 @@
 # TGBot
-Develpeped with pyTelegramBotAPI
+Developed with pyTelegramBotAPI
